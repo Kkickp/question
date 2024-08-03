@@ -332,17 +332,17 @@ body {
     }
   }
   
-  .banner {
-    text-align: center;
-    line-height: 44px;
-    width: 550px;
-    height: 44px;
-    position: absolute;
-    top: -22px;
-    left: -632px;
-    background: #ffffff;
-    z-index: -1;
-  }
+.banner {
+  text-align: center;
+  line-height: 44px;
+  width: 300px;
+  height: 44px;
+  position: absolute;
+  top: -22px;
+  left: -382px;
+  background: #ffffff;
+  z-index: -1;
+}
   
   .triangle {
     left: 0px;
